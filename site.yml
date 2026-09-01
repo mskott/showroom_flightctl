@@ -1,7 +1,7 @@
 ---
 site:
-  title: Showroom Template Demo
-  url: https://github.com/rhpds/showroom_template_nookbag
+  title: Edge lab demo
+  url: https://martin.skoett.name/showroom_flightctl
   start_page: modules::index.adoc
 
 content:
@@ -21,7 +21,7 @@ antora:
       script_stem: header-scripts
       mermaid_initialize_options:
         start_on_load: true
-    - require: '@andrew-jones/antora-tabs-extension'
+#    - require: '@andrew-jones/antora-tabs-extension'
 
 output:
   dir: ./www

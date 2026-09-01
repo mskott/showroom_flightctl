@@ -1,6 +1,11 @@
-* xref:index.adoc[What is Showroom?]
+* xref:index.adoc[Edge lab demo]
 
-.Content Developer Guide
+.Workshop guide
+* xref:device-management.adoc[Device management]
+* xref:fleets.adoc[Working with fleets]
+* xref:deplouing-software.adoc[Deploying software]
+
+.Workshop guide - OLD
 * xref:quick-start.adoc[Quick Start]
 * xref:content-repo.adoc[Creating a Content Repository]
 * xref:agnosticv-config.adoc[AgnosticV Configuration]
