@@ -3,7 +3,7 @@
 .Workshop guide
 * xref:device-management.adoc[Device management]
 * xref:fleets.adoc[Working with fleets]
-* xref:deplouing-software.adoc[Deploying software]
+* xref:deploying-software.adoc[Deploying software]
 
 .Workshop guide - OLD
 * xref:quick-start.adoc[Quick Start]
